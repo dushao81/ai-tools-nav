@@ -1,0 +1,12 @@
+{
+  "name": "ai-tools-nav",
+  "version": "1.0.0",
+  "description": "AI工具导航站 - 发现最实用的AI工具",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site, no build needed'"
+  },
+  "keywords": ["AI", "tools", "navigation", "人工智能", "工具导航"],
+  "author": "AI Team",
+  "license": "MIT"
+}
