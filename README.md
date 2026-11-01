@@ -8,7 +8,7 @@
 - 生产环境：待部署到Vercel
 
 ## 功能特性
-- ✅ 收录18个热门AI工具
+- ✅ 收录19个热门AI工具
 - ✅ 分类筛选（写作/绘画/编程/办公/视频/音频）
 - ✅ 搜索功能
 - ✅ 响应式设计
@@ -17,7 +17,7 @@
 ## 工具分类
 1. AI写作 - ChatGPT, Claude, Notion AI
 2. AI绘画 - Midjourney, DALL-E 3, Stable Diffusion
-3. AI编程 - GitHub Copilot, Cursor, V0.dev
+3. AI编程 - GitHub Copilot, Cursor, V0.dev, agent-qa
 4. AI办公 - Gamma, ChatExcel, Mailbutler
 5. AI视频 - Runway, Pika, HeyGen
 6. AI音频 - Suno, ElevenLabs, Whisper
